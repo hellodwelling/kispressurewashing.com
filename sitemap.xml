@@ -5,91 +5,98 @@
 
     <url>
         <loc>https://kispressurewashing.com/index</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/store</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/reviews</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/gallery-All</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/gallery-Pressure-Washing</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/gallery-Home-Softwash</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/service-Concrete-Cleaning</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/service-Deck-&-Patio-Cleaning</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/service-Driveway-and-Sidewalk-Cleaning</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/service-Fence-Washing</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/service-Hardscape-Cleaning</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://kispressurewashing.com/service-Home-Softwash</loc>
-        <lastmod>2022-07-16</lastmod>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://kispressurewashing.com/service-Roofing-Cleaning</loc>
-        <lastmod>2022-07-16</lastmod>
+        <loc>https://kispressurewashing.com/service-Roof-Cleaning</loc>
+        <lastmod>2022-07-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kispressurewashing.com/service-Window-Cleaning</loc>
+        <lastmod>2022-07-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
